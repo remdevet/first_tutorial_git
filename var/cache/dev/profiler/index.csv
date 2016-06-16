@@ -1,0 +1,4 @@
+f6e774,127.0.0.1,GET,http://localhost:8000/,1466026101,,200
+a58776,127.0.0.1,GET,http://localhost:8000/apple-touch-icon-precomposed.png,1466026104,4da4c7,200
+4da4c7,127.0.0.1,GET,http://localhost:8000/apple-touch-icon-precomposed.png,1466026104,,404
+3d14a6,127.0.0.1,GET,http://127.0.0.1:8000/,1466076478,,200
